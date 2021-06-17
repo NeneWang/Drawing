@@ -6,4 +6,5 @@ drawing_excercises.leo
 find * -size +1G | cat >> .gitignore
 assets/new_brushes_by_sylar113_d9n2zyh.abr
 *.psd
-*.psd
+Photoshop/instructor tests.psd
+Photoshop/instructor tests.psd
