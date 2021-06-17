@@ -3,3 +3,4 @@ Practice.leo
 drawing_excercises.leo
 
 *.leo
+find * -size +1G | cat >> .gitignore
